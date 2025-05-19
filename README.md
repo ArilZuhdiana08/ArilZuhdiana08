@@ -11,14 +11,17 @@ On Instagram, I have over **10K followers**, on LinkedIn over **500**, and on Ti
 
 ---
 
+### 🐍 GitHub Snake Animation
+![snake gif](https://github.com/ArilZuhdiana08/ArilZuhdiana08/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 📊 GitHub Stats & Contributions
 
-<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArilZuhdiana08&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
-<!-- GitHub Contributions Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArilZuhdiana08&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
